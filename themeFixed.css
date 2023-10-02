@@ -478,9 +478,9 @@ lol-regalia-banner-v2-element{
   z-index: 2;
 }
 
-/* .collections-sub-nav-component ember-view {
-    z-index: 3;
-} */
+ .collections-sub-nav-component ember-view {
+    z-index: 2;
+} 
 
 /* YOUR SHOP */
 
