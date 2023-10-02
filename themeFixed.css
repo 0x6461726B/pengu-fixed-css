@@ -79,7 +79,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     background: linear-gradient(#3f2375, #c100d81a 18%)!important;
 }
 
-/* .section, :host-context(lol-uikit-navigation-bar[type=nav-bar-secondary]) .section {
+.section, :host-context(lol-uikit-navigation-bar[type=nav-bar-secondary]) .section {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -138,7 +138,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     min-height: 20px;
     cursor: pointer;
     font-family: 'Orbitron', sans-serif!important;
-} */
+}
 
 ::content .lol-uikit-video-content {
     position: absolute;
@@ -475,7 +475,6 @@ lol-regalia-banner-v2-element{
 
 .collections-routes{
   position: relative;
-  z-index: 2;
 }
 
 /* YOUR SHOP */
