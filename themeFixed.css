@@ -94,8 +94,6 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     height: 100%;
     min-height: 20px;
     cursor: pointer;
-    pointer-events: auto;
-    z-index: 1000;
 }
 
 .section.active .section-glow {
@@ -140,6 +138,8 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     min-height: 20px;
     cursor: pointer;
     font-family: 'Orbitron', sans-serif!important;
+    pointer-events: auto;
+    z-index: 1000;
 }
 
 ::content .lol-uikit-video-content {
