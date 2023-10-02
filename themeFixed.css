@@ -475,6 +475,11 @@ lol-regalia-banner-v2-element{
 
 .collections-routes{
   position: relative;
+  z-index: 2;
+}
+
+.collections-sub-nav-component ember-view {
+    z-index: 3;
 }
 
 /* YOUR SHOP */
