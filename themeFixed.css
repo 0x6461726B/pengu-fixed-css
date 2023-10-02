@@ -478,7 +478,8 @@ lol-regalia-banner-v2-element{
   z-index: 2;
 }
 
- .collections-sub-nav-component.ember-view {
+ .collections-sub-nav-component .ember-view {
+    position: relative;
     z-index: 2;
 } 
 
